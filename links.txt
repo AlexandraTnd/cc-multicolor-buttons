@@ -1,0 +1,10 @@
+DOM Manipulation: 
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+
+
+Click event: 
+https://developer.mozilla.org/en-US/docs/Web/API/Element/click_event
+
+
+What is DOM?: 
+https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction
